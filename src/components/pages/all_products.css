@@ -1,0 +1,19 @@
+.all_products{
+    display: flex;
+    background-color: gray;
+    justify-content:space-between;
+    padding: 5px;
+}
+
+.all_products_left{
+    height: 100%;
+    width: 20%;
+    background-color: white;
+    border-radius: 4px;
+}
+
+.all_products_right{
+    background-color: white;
+    width: 79%;
+    border-radius: 4px;
+}

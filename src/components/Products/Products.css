@@ -1,0 +1,36 @@
+.products{
+    height: 200px;
+    border-bottom: 5px solid black;
+    margin-top: 5px;
+    display: flex;
+}
+
+.products > img{
+    width: 220px;
+    height: 90%;
+}
+.product_info{
+    margin-left: 15px;
+}
+
+.product_info_price{
+    margin-top: 15px;
+    color: #B12704;
+}
+
+.product_info_delivery{
+    margin-top: 10px;
+}
+
+.button_cart{
+    background-color: #CD9042;
+    height: 30px;
+    width: 100px;
+    border-radius: 5px;
+}
+
+.product_right{
+    align-items: center;
+    margin-top: 80px;
+    margin-left: 100px;
+}
